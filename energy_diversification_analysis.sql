@@ -231,4 +231,4 @@ ORDER BY avg_gdp_per_capita DESC;
    in all three income groups, but the linear correlation is weak everywhere
    except the high-income group. The honest reading is a real but modest
    effect, not a strong predictive relationship. The n=5 cell in the low-income
-   group is too small to lean on. 
+   group is too small to lean on. */
